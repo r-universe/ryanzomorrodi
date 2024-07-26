@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/ryanzomorrodi/ryanzomorrodi.r-universe.dev
 	branch = HEAD
+[submodule "ChicagoHA"]
+	path = ChicagoHA
+	url = https://github.com/ryanzomorrodi/ChicagoHA
 [submodule "centr"]
 	path = centr
 	url = https://github.com/ryanzomorrodi/centr
