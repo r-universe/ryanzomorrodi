@@ -8,3 +8,9 @@
 [submodule "healthatlas"]
 	path = healthatlas
 	url = https://github.com/ryanzomorrodi/healthatlas
+[submodule "sasquatch"]
+	path = sasquatch
+	url = https://github.com/ryanzomorrodi/sasquatch
+[submodule "socratadata"]
+	path = socratadata
+	url = https://github.com/ryanzomorrodi/socratadata
